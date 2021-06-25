@@ -5,6 +5,8 @@ JOIN GROUP=https://chat.whatsapp.com/BkbRZd4WrgnEQ8jbLbQCFM
 
 THANKS FOR RAMLAN ID
 
+THANKS FOR SUPPA
+
 apt update && apt upgrade
 
 apt install git -y
