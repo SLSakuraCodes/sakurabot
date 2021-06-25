@@ -15,9 +15,9 @@ apt install ffmpeg -y
 
 apt install imagemagick -y
 
-git clone https://github.com/supundil/botkingdombot
+git clone https://github.com/SLSakuraCodes/sakurabot.git
 
-cd botkingdombot
+cd sakurabot
 
 npm install
 
