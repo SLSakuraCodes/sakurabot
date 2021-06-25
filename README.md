@@ -1,5 +1,5 @@
-# botkingdombot
-BOT KINGDOM BOT
+# sakurabot
+SAKURA BOT
 
 JOIN GROUP=https://chat.whatsapp.com/BkbRZd4WrgnEQ8jbLbQCFM
 
